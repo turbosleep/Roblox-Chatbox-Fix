@@ -2,6 +2,7 @@
 This extensions is specifically for the Roblox Chatbox, it fixes the imperfect, disgusting, Roblox Chatbox.
 Please note **this is just a fun passive project I had and I may discontinue it anytime I want.**
 
+-------
 
 # Questions and Answers.
 Q1: What does this fix?
