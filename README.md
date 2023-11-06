@@ -7,9 +7,13 @@ Incomplete.
 # How to install.
 -------
 Go to Release page and download RobloxChatboxFix.zip
+
 Go to extentions page (chrome://extensions)
+
 Enable developer mode
+
 Press "Load unpacked" button
+
 Select the folder you just downloaded (RobloxChatboxFix.zip)
 
 # Questions and Answers.
