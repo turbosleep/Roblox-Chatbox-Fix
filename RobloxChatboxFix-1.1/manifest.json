@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Roblox Chatbox",
+  "description": "Fixes issues with the Roblox Chatbox.",
+  "version": "1.5",
+  "icons": {
+    "16": "/images/roblox16.png",
+    "48": "/images/roblox48.png",
+    "128": "/images/roblox128.png"
+  },
+  "host_permissions": [
+    "https://www.roblox.com/*"
+  ],
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "scripting",
+    "webNavigation"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

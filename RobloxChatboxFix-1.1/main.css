@@ -1,0 +1,22 @@
+.chat-header-title,
+.chat-header-label.details-dialog-title .font-caption-header.ng-binding {
+    line-height: 17px !important;
+}
+
+.input-field.chat-search-input,
+.border-bottom.chat-search,
+.chat-search,
+.input-field,
+.border-top.dialog-input-container {
+    border-radius: 0 !important;
+}
+
+.friend-action-more-option {
+    position: absolute;
+    top: 1%;
+    transform: translateY(-1%);
+    right: 1px;
+}
+#scrollbar_0_conv_24478632703 {
+    box-shadow: none !important;
+}
