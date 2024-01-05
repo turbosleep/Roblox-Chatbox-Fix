@@ -1,4 +1,4 @@
-## Extensions
+## Extension
 
 # Roblox Chatbox Nitrogen Fix
 <i>Extension use for fixing the Roblox website chatbox.</i>
